@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "value": "rock",
+    "beats": "scissor"
+  },
+  {
+    "id": 2,
+    "value": "paper",
+    "beats": "rock"
+  },
+  {
+    "id": 3,
+    "value": "scissor",
+    "beats": "paper"
+  }
+]
